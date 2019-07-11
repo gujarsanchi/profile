@@ -13,7 +13,7 @@ html, body {
     margin-bottom: 2px;
   }
   .wrapper {
-    max-width: 300px;
+    max-width: 320px;
     display: flex;
     align-items: center;
     height: 80%;
@@ -34,6 +34,7 @@ html, body {
   
   .profile-picture {
     border-radius: 50%;
+    max-width: 100%;
   }
   .social-links {
     list-style: none;
